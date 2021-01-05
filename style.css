@@ -1,0 +1,106 @@
+.blue{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive ;
+    font-size: 80px;
+    margin-bottom: 0%;
+
+}
+.red{
+    color: #FF8367;
+    font-family: 'Bebas Neue', cursive ;
+    font-size: 80px;
+    margin: 0%;
+    
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #3E3E3E;
+}
+h2{
+    font-family: 'Bebas Neue', cursive ;
+    color: #363958;
+    font-size: 48px;
+     
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    
+}
+.last{
+    width: 25%;
+    float: left;
+    margin-left: 4%%;
+    padding-left: 3%;
+}
+.ride img{
+    width: 100%;
+}
+.ride{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    height: 80%;
+    background-color: white;
+    margin-left: 4%;
+
+
+    
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#FF8064, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font: 700;
+
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.last-red{
+    color:#F46060;
+}
+.mid{
+    text-align: center;
+}
+.gym{
+    font-size: 24px;
+    font-family:'Roboto', sans-serif;
+    font-weight: 900px;
+    color: #363958;
+
+}
+.gym1{
+    font-size:16px;
+    color: #6C6C6C;
+}
+
+.chat1{
+    text-align: center;
+ 
+}
+.chat{
+
+        text-decoration: none;
+        background-image: url(images/66.png);
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+        font: 700;
+        background-size: 60%;
+        background-position: center;
+        background-repeat: no-repeat;
+    
+}
