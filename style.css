@@ -1,22 +1,23 @@
+
 .blue{
     color: #363958;
     font-family: 'Bebas Neue', cursive ;
     font-size: 80px;
     margin-bottom: 0%;
-
 }
 .red{
     color: #FF8367;
     font-family: 'Bebas Neue', cursive ;
     font-size: 80px;
     margin: 0%;
-}
+    margin-bottom: 0%;}
  
 p{
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: bold;
     color: #3E3E3E;
+    margin-bottom: 60px;
 }
 h2{
     font-family: 'Bebas Neue', cursive ;
@@ -28,10 +29,9 @@ h2{
 .half-width{
     width: 40%;
     float: left;
-    margin-left: 3%;
+    margin-left: 4%;
     padding-left: 2%;
-    
-}
+ }
 .ab{
     margin: 8%;
     background-color: #f9f9fa;
@@ -189,10 +189,7 @@ section{
 .link-last{
      
     left: 0;
-    bottom: 0;
     width: 100%;
-    text-align: center;  
-    margin-right: 30px;
-    .a{
-        margin-right: 30px;
-    }
+    text-align: center;
+     margin-right: 20px;
+}
